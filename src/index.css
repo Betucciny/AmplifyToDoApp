@@ -59,6 +59,11 @@ li:hover {
   background: #dadbf9;
 }
 
+input{
+  margin: 2rem;
+  padding: 10px;
+}
+
 a {
   font-weight: 800;
   text-decoration: none;
