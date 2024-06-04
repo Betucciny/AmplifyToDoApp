@@ -53,6 +53,7 @@ ul {
 li {
   background-color: white;
   padding: 8px;
+  max-width: 300px;
 }
 
 li:hover {
